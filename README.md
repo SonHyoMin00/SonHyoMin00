@@ -24,9 +24,11 @@
 
 
 ### 🏅 Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonhyomin00&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/> 
-<!--[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=sondo100)](https://solved.ac/sondo100)-->
-[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=sondo100)](https://solved.ac/sondo100)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://mazassumnida.wtf/api/v2/generate_badge?boj=sondo100) 
+
+
+
 <!--
 **SonHyoMin00/SonHyoMin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
