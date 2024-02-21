@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0084ff,100:9580ff&height=180&text=Welcome%20to%20hyomin's%20Github!&animation=&fontColor=ffffff&fontSize=40" />
 
 ### 안녕하세요. 손효민입니다. 👋
-#함께의 가치를 아는 개발자 #어제보다 발전한 오늘의 개발자
+#어제보다 발전한 오늘의 개발자
 
 ### 📞 Contact 
 <a href="mailto:sondoh100@naver.com">
